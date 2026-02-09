@@ -87,26 +87,26 @@ Here are some of my highlighted projects:
 ---
 
 ### 🔹 Portfolio Website  
-🌍 Personal responsive portfolio with projects & contact form  
+🌍 Personal responsive portfolio showcasing projects & skills  
 **Tech:** Next.js, TailwindCSS  
 
 👉 Live Demo: *(Add link here)*  
 
 ---
 
-# 📊 GitHub Stats  
+# 📊 GitHub Stats (Fixed & Visible)
 
-![](https://github-readme-stats.vercel.app/api?username=xsid-69&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xsid-69&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=xsid-69&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=xsid-69&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xsid-69&theme=tokyonight&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xsid-69&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![](https://github-profile-trophy.vercel.app/?username=xsid-69&theme=tokyonight&no-frame=false&margin-w=6)
+![](https://github-profile-trophy.vercel.app/?username=xsid-69&theme=tokyonight&margin-w=6)
 
 ---
 
@@ -118,13 +118,3 @@ Here are some of my highlighted projects:
 
 ⭐ *Thanks for visiting my profile! Feel free to connect with me.*
 
-
----
-
-## 👀 Profile Visitors  
-
-[![](https://visitcount.itsvg.in/api?id=xsid-69&icon=2&color=12)](https://visitcount.itsvg.in)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to connect with me.*
