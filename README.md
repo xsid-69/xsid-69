@@ -1,120 +1,121 @@
-# 👋 Hi, I'm Siddhant Wankhade  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Siddhant%20Wankhade&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=55&textBg=false"/>
 
-🚀 Full Stack Developer | MERN | AI/ML Enthusiast  
-🌱 Currently learning **DSA & Problem Solving**  
-🎯 Looking for **Internship Opportunities**  
-⚡ Fun fact: I’m good at overthinking 😅  
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=xsid-69">
+    <img src="https://komarev.com/ghpvc/?username=xsid-69&label=Profile%20views&color=00FFFF&style=flat-square" alt="xsid-69's profile views" />
+  </a>
+</p>
 
----
+<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
-## 🌐 Connect With Me  
+## 📌 About Me
+- 🚀 Full Stack Developer | MERN | AI/ML Enthusiast
+- 🌱 Currently learning DSA & Problem Solving
+- 🎯 Looking for Internship Opportunities
+- ⚡ Fun fact: I’m good at overthinking 😅
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/siddhant.w_69/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-wankhade-754b3a293/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhantw291@gmail.com)
 
----
+## 🧠 My Focus Areas
+- Full stack web Development
+- Building Good UI
+- Implementing AI in modern sites
 
-# 💻 Tech Stack  
 
-### 👨‍💻 Programming Languages  
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/xsid-69">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xsid-69&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="xsid-69's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=xsid-69&theme=radical&hide_border=true&cache_seconds=86400" alt="xsid-69's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=xsid-69&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Siddhant Wankhade's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xsid-69&theme=radical&radius=10" alt="xsid-69's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
+## 🛠️ Languages & Tools
 
-### 🌐 Frontend Development  
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+</p>
 
----
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-### ⚙ Backend Development  
+</p>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
 
----
+</p>
 
-### 🗄 Databases  
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+</p>
 
----
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
 
-### ☁ Deployment & Tools  
+</p>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
----
+</p>
 
-# 🚀 Projects Showcase  
+<p align="center">
+  <a href="https://github.com/xsid-69">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xsid-69&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-Here are some of my highlighted projects:
+![Top language](https://stats.pphat.top/languages?username=xsid-69)
+<br/>
 
-### 🔹 AI Chat App (ChatGPT Clone)  
-💬 Full Stack AI-powered chat interface with memory support  
-**Tech:** React, Node.js, MongoDB  
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/siddhant-wankhade-754b3a293/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/919356851770">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:siddhantw291@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
-👉 Repo: *(Add link here)*  
-👉 Live Demo: *(Add link here)*  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
----
-
-### 🔹 MERN Authentication System  
-🔐 Secure login/signup with JWT + Refresh Tokens  
-**Tech:** Express, MongoDB, React  
-
-👉 Repo: *(Add link here)*  
-
----
-
-### 🔹 Portfolio Website  
-🌍 Personal responsive portfolio showcasing projects & skills  
-**Tech:** Next.js, TailwindCSS  
-
-👉 Live Demo: *(Add link here)*  
-
----
-
-# 📊 GitHub Stats (Fixed & Visible)
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xsid-69&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=xsid-69&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xsid-69&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies  
-
-![](https://github-profile-trophy.vercel.app/?username=xsid-69&theme=tokyonight&margin-w=6)
-
----
-
-## 👀 Profile Visitors  
-
-[![](https://visitcount.itsvg.in/api?id=xsid-69&icon=2&color=12)](https://visitcount.itsvg.in)
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to connect with me.*
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
